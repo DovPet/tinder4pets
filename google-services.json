@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "798263319209",
+    "project_id": "tinder4pets-5ff77",
+    "storage_bucket": "tinder4pets-5ff77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798263319209:android:5c70291fee171cffb4e7b8",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798263319209-rv65tdbkn9gghb2baer00p1bsei3je8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "2ff03a447f01b7c58d9f0647370748e8601afa8a"
+          }
+        },
+        {
+          "client_id": "798263319209-sfd10o60p6vd4tiuci7d792kcm6d2gb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Bumk9JF2popwRhhlf01SzBFehDYrrU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798263319209-sfd10o60p6vd4tiuci7d792kcm6d2gb2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798263319209-23jodpquohsqcm6lg8hi4hgbl9hgn8r7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
